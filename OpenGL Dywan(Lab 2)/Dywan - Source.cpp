@@ -12,7 +12,7 @@ static double side = 190;
 static int number_of_moves = 6;
 static bool draw_colors = true;
 static int red_color = 1;
-static int green_color = 0;
+static int green_color = 1;
 static int blue_color = 1;
 
 // Funkcja okreslajaca, co ma byc rysowane
